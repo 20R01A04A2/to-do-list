@@ -5,5 +5,5 @@ https://replit.com/@saikumar2910/to-do-list
 
 
 Techstack used:
-Python 3.8.16
-Visual Studio Code
+# 1.Python 3.8.16
+# 2.Visual Studio Code
